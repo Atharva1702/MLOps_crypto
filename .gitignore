@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+.cvenv
+/top_crypto.csv
+/rf_crypto_model.pkl

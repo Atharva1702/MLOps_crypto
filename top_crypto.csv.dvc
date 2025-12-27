@@ -1,0 +1,5 @@
+outs:
+- md5: 21bce11aeafddb62bd7998559a65a9e6
+  size: 1021070
+  hash: md5
+  path: top_crypto.csv
